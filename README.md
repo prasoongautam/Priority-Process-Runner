@@ -1,3 +1,3 @@
 # Priority-Process-Runner
 
-Run npm i and after that run npm testto check the code
+Run npm i and after that run npm test to check the code
